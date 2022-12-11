@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48330" started-at="2022-12-11T07:01:45Z" finished-at="2022-12-11T07:02:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48330" started-at="2022-12-11T07:01:45Z" finished-at="2022-12-11T07:02:33Z">
+      <class name="apiautomation.EndToEndTest">
+        <test-method status="PASS" signature="TestGetAllEmployess()[pri:0, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="TestGetAllEmployess" duration-ms="18967" started-at="2022-12-11T07:01:45Z" finished-at="2022-12-11T07:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetAllEmployess -->
+        <test-method status="PASS" signature="TestCreateEmployee()[pri:1, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="TestCreateEmployee" duration-ms="15860" started-at="2022-12-11T07:02:04Z" finished-at="2022-12-11T07:02:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreateEmployee -->
+        <test-method status="PASS" signature="TestGetSingleEmployee()[pri:2, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="TestGetSingleEmployee" duration-ms="2447" started-at="2022-12-11T07:02:20Z" finished-at="2022-12-11T07:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetSingleEmployee -->
+        <test-method status="PASS" signature="TestUpdateEmployee()[pri:3, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="TestUpdateEmployee" duration-ms="2343" started-at="2022-12-11T07:02:22Z" finished-at="2022-12-11T07:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUpdateEmployee -->
+        <test-method status="PASS" signature="VerifyEmployeeAfterUpdate()[pri:4, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="VerifyEmployeeAfterUpdate" duration-ms="2232" started-at="2022-12-11T07:02:25Z" finished-at="2022-12-11T07:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeeAfterUpdate -->
+        <test-method status="PASS" signature="TestDeleteEmployee()[pri:5, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="TestDeleteEmployee" duration-ms="2094" started-at="2022-12-11T07:02:27Z" finished-at="2022-12-11T07:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeleteEmployee -->
+        <test-method status="PASS" signature="VerifyEmployeeIsDeleted()[pri:6, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="VerifyEmployeeIsDeleted" duration-ms="2109" started-at="2022-12-11T07:02:29Z" finished-at="2022-12-11T07:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeeIsDeleted -->
+        <test-method status="PASS" signature="VerifyEmployeeIsDeletedFromList()[pri:7, instance:apiautomation.EndToEndTest@6a2bcfcb]" name="VerifyEmployeeIsDeletedFromList" duration-ms="2140" started-at="2022-12-11T07:02:31Z" finished-at="2022-12-11T07:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEmployeeIsDeletedFromList -->
+      </class> <!-- apiautomation.EndToEndTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
